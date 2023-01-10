@@ -1,1 +1,2 @@
 # Intoduction-to-data-analysis
+one of Udacity's data analyst project In this project I have investigate TMDb movie data set by asking some questions.i did the needed data preperation in order to get more convient results.The one of the  questions was "Between Action,Adventure and Crime which genre has received the highest revenue? and the results were surprised a bit to me, since I thought that a lot of people like crime movies including me, so thy make higher revenue, but was not. 
